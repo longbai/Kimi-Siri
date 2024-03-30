@@ -14,7 +14,7 @@
 点击下面链接下载快捷指令，支持 iPhone、iPad、Mac、HomePod、CarPlay。
 
 ## Kimi Siri 2.0
-- [简体中文版](https://www.icloud.com/shortcuts/6e6bbbb212924f20ac94e1cf4dceba86)
+- [简体中文版](https://www.icloud.com/shortcuts/eca69e1cff5844efbaa5f17eb399ecd5)
 
 ## 智能聊天 1.0
 
